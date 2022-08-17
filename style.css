@@ -54,3 +54,8 @@ body{
     background: orangered;
 
 }
+
+
+.caja1 {
+    transform: rotate(20deg);
+}
